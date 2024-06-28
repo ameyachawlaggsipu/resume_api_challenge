@@ -1,7 +1,7 @@
 import json
 import boto3
 
-#Initialize DynamoDB resource
+#Initialize DynamoDB resourceS
 dynamodb = boto3.resource('dynamodb')
 table = dynamodb.Table('Resume')
 
