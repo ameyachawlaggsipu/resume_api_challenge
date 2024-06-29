@@ -11,7 +11,7 @@ This project implements a REST API using AWS Lambda and DynamoDB for managing re
 
 ## Example Output
 
-- **Endpoint:** `https://e8muaduk8j.execute-api.us-east-2.amazonaws.com/default/resume_api?id=1`
+- **Sample API Call:** ` curl https://e8muaduk8j.execute-api.us-east-2.amazonaws.com/default/resume_api?id=1`
 - **Sample Output:**
   ```json
   {
